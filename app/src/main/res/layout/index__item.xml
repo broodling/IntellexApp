@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ecf0f1"
+    android:orientation="horizontal"
+    android:paddingBottom="5dp"
+    android:paddingRight="10dp"
+    android:weightSum="1"
+    tools:context="com.example.kobac.myapplication.IndexActivity">
+
+
+    <ImageView
+        android:id="@+id/indexImage"
+        android:layout_width="@dimen/image_width"
+        android:layout_height="@dimen/image_height"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/indexTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Philip Zepter Monte Carlo"
+            android:textColor="#2c3e50"
+            android:textSize="@dimen/title_text_size"
+            android:textStyle="bold"
+            android:typeface="serif"></TextView>
+
+        <TextView
+            android:id="@+id/indexDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:text="Philip Zepter International Is the world famous manufacturer of high-quality products"
+            android:textColor="#34495e"
+            android:textSize="@dimen/description_text_size" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

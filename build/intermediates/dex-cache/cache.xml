@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kobac/workspace/Intellex app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7d420575eaeb276e721b6996d20b12e38c45bc38">
+        <dex dex="/home/kobac/workspace/Intellex app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d35f1a36d17ac7052c7f2bbeaf2da0d9201efcb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kobac/workspace/Intellex app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/kobac/workspace/Intellex app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3f3998b03a6797c82fb3ad3b5aa922e7cbab9a77/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kobac/.android/build-cache/37202f091bb55b19d3247e2aa4ef39df5325445c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b7e8abb9bbe5eaac17b5fe4700d9bfce2c87818f">
+        <dex dex="/home/kobac/workspace/Intellex app/app/build/intermediates/pre-dexed/debug/classes_a777ad2bd954759bee1ebb46ff048833ad316484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kobac/.android/build-cache/e1f2edc3c493620f3e8cc486e9b44426bbf393f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/kobac/workspace/Intellex app/app/build/intermediates/pre-dexed/debug/classes_872f62ad57f7b27d8c4ac6a9e82f043dc9f7aa30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kobac/.android/build-cache/ef9ce1aa77293cf4adba44d46e5fd56036f0c19d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a38dc57bd3a0900f291f38e4786cde461aece5a9">
+        <dex dex="/home/kobac/workspace/Intellex app/app/build/intermediates/pre-dexed/debug/classes_c97f1da2069f545b28b52c41a656fda97e728f25.jar" />
+    </item>
+
+</items>
